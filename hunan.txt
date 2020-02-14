@@ -1,4 +1,4 @@
-﻿辽宁卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225889/1.m3u8#http://cctvalih5ca.v.myalicdn.com/wstv/liaoning_2/index.m3u8#http://39.135.34.150:18890/000000001000/1000000002000024033/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000024033&owchid=ystenlive&owsid=1106497909461352974&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhQBci%2f2KtFqbPb5lYHzQlehPnBUBV7gDU5NsQ1fq2DyLArxZhG%2bC4a49jTs%2bwbEKo#http://39.135.34.19:18890/000000001000/1000000002000024033/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035171
+﻿辽1宁卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225889/1.m3u8#http://cctvalih5ca.v.myalicdn.com/wstv/liaoning_2/index.m3u8#http://39.135.34.150:18890/000000001000/1000000002000024033/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000024033&owchid=ystenlive&owsid=1106497909461352974&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhQBci%2f2KtFqbPb5lYHzQlehPnBUBV7gDU5NsQ1fq2DyLArxZhG%2bC4a49jTs%2bwbEKo#http://39.135.34.19:18890/000000001000/1000000002000024033/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035171
 
 CCTV-1综合,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8#http://39.135.34.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6#http://39.135.34.134:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035729
 
@@ -86,13 +86,6 @@ Newtv-动画,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/32
 熊猫2,https://gcbsc.v.live.baishancdnx.cn/gc/xiongmao03_1/index.m3u8?contentid=2820180516001
 熊猫3,https://gctxyc.liveplay.myqcloud.com/gc/xiongmao25_1/index.m3u8?contentid=2820180516001
 凤凰卫视,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8#http://liveali.ifeng.com/live/FHZW.m3u8#http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8?icpid=88888888&from=30&hms_devid=1452,1451&online=1580892662&vqe=1
-
-
-
-
-
-
-
 
 
 
