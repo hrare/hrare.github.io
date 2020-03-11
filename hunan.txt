@@ -1,3 +1,4 @@
+精彩影视,#genre#
 CCTV1, http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/c211_scc_20190617_t0x01q5a_original_r10.m3u8&
 CCTV2, http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190617_y2vstiy0_original_r10/c212_scc_20190617_y2vstiy0_original_r10.m3u8&
 CCTV3, http://cdn-in.iqy.sc96655.com/tslive/c213_scc_20190618_0apbps2b_original_r10/c213_scc_20190618_0apbps2b_original_r10.m3u8&
