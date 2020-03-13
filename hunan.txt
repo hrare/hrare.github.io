@@ -90,7 +90,7 @@ Newtv-超级综艺,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/
 Newtv-超级电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226133/1.m3u8#
 
 
-狍子频道,#genre#_1234
+狍子频道_我是狍子,#genre#
 美女热舞1,http://z9.syasn.com/f/f1
 美女热舞2,http://z9.syasn.com/f/f2
 美女热舞3,http://z9.syasn.com/f/f3
