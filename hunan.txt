@@ -451,11 +451,11 @@ playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF
 辽宁卫视,http://cfss.cc/api/ysp/lnws.m3u8
 北京卫视,http://cfss.cc/api/ysp/bjws.m3u8
 东方卫视,http://cfss.cc/api/ysp/dfws.m3u8
-湖1南卫视,http://cfss.cc/api/ysp/hnws.m3u8
+湖南卫视,http://cfss.cc/api/ysp/fnws.m3u8
 江苏卫视,http://cfss.cc/api/ysp/jsws.m3u8
 浙江卫视,http://cfss.cc/api/ysp/zjws.m3u8
 黑龙江卫视,http://cfss.cc/api/ysp/hljws.m3u8
-内1蒙古卫视,http://cfss.cc/api/ysp/nmgws.m3u8
+内1蒙古卫视,http://cfss.cc/api/ysp/nmws.m3u8
 吉1林卫视,http://cfss.cc/api/ysp/jlws.m3u8
 天津卫视,http://cfss.cc/api/ysp/tjws.m3u8
 山东卫视,http://cfss.cc/api/ysp/sdws.m3u8
