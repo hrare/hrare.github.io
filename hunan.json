@@ -6,13 +6,13 @@
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ocmFyZS5naXRodWIuaW8vaHVuYW4udHh0"]}]}],
 
-{"urls": [
+"urls": [
 
 {"url": "http://meowtv.cn/tv","name":"胡楠总线路"},
 
 
 ]
-}
+
 
 
 
