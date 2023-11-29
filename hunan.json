@@ -6,6 +6,17 @@
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ocmFyZS5naXRodWIuaW8vaHVuYW4udHh0"]}]}],
 
+{"urls": [
+
+{"url": "http://meowtv.cn/tv","name":"胡楠总线路"},
+
+
+]
+}
+
+
+
+  
 "sites":[
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)💎","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)💎","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
