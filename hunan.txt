@@ -1,4 +1,4 @@
-🎈央视频道,#genre#
+🎈央视频道1,#genre#
 CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV1,http://cfss.cc/api/ysp/cctv1.m3u8
 CCTV2,http://cfss.cc/api/ysp/cctv2.m3u8
