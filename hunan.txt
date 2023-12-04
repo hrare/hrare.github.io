@@ -1,7 +1,7 @@
 
 🎈央视频道,#genre#
- CCTV1,http://127.0.0.1:8080/ysp.php?id=cctv1
-CCTV1,http://127.0.0.1:8080/ysp.php?id=cctv2
+CCTV1,http://127.0.0.1:8080/ysp.php?id=cctv1
+CCTV2,http://127.0.0.1:8080/ysp.php?id=cctv2
 CCTV3,http://127.0.0.1:8080/ysp.php?id=cctv3
 CCTV4,http://127.0.0.1:8080/ysp.php?id=cctv4
 CCTV5,http://127.0.0.1:8080/ysp.php?id=cctv5
