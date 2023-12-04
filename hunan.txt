@@ -48,6 +48,7 @@ ________________________________________________________________________________
 浙江经济,http://hw-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/720p.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/720p.m3u8
+CCTV6,http://ftp6296768.host100.abeiyun.cn/mg.php?id=cctv6
 __________________________________________________________________________________________________________
 
  
