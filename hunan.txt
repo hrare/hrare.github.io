@@ -1,7 +1,6 @@
 
 🎈央视频道,#genre#
-
-CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
+ CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
  CCTV1,http://cfss.cc/api/ysp/cctv1.m3u8
  CCTV2,http://cfss.cc/api/ysp/cctv2.m3u8
  CCTV3,http://cfss.cc/api/ysp/cctv3.m3u8
@@ -20,10 +19,14 @@ CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
  CCTV15,http://cfss.cc/api/ysp/cctv15.m3u8
  CCTV16,http://cfss.cc/api/ysp/cctv16.m3u8
  CCTV17,http://cfss.cc/api/ysp/cctv17.m3u8
- __________________________________________________________________________________________________________
- 🎈稳定流畅,#genre#
- CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
- CCTV13,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv13_2/index.m3u8
+ _________________________________________________________________________________________________________
+ 
+ 
+ 
+__________________________________________________________________________________________________________
+🎈稳定流畅,#genre#
+CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
+CCTV13,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv13_2/index.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
 浙江钱江,http://hw-m-l.cztv.com/channels/lantian/channel002/720p.m3u8
 浙江经济,http://hw-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
@@ -31,10 +34,7 @@ CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/720p.m3u8
 
 __________________________________________________________________________________________________________
-
- 
 🎈卫视频道,#genre#
-
  辽宁卫视,http://cfss.cc/api/ysp/lnws.m3u8
  北京卫视,http://cfss.cc/api/ysp/bjws.m3u8
  东方卫视,http://cfss.cc/api/ysp/dfws.m3u8
@@ -71,7 +71,15 @@ ________________________________________________________________________________
  西藏卫视,http://cfss.cc/api/ysp/xzws.m3u8
  海南卫视,http://cfss.cc/api/ysp/hinws.m3u8
  凤凰中文,http://cfss.cc/api/ysp/fhws.m3u8
+__________________________________________________________________________________________________________
 
+
+
+
+
+
+
+__________________________________________________________________________________________________________
 历年春晚,#genre#
 春晚1983,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8 
 春晚1984,https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8 
