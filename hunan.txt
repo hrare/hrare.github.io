@@ -77,6 +77,12 @@ CCTV13,http://42.53.68.178:9901/tsfile/live/0013_1.m3u8
 CCTV14,http://42.53.68.178:9901/tsfile/live/0014_1.m3u8
 CCTV15,http://42.53.68.178:9901/tsfile/live/0015_1.m3u8
 
+CCTV11,http://42.53.68.178:9901/tsfile/liv/0015_1.m3u8
+CCTV12,http://42.53.68.178:9901/tsfile/liv/0012_1.m3u8
+CCTV13,http://42.53.68.178:9901/tsfile/liv/0013_1.m3u8
+CCTV14,http://42.53.68.178:9901/tsfile/liv/0014_1.m3u8
+CCTV15,http://42.53.68.178:9901/tsfile/liv/0015_1.m3u8
+
  
  
  
