@@ -18,6 +18,11 @@ CCTV13,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv13_2/index.m3u8
 浙江经济,http://hw-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/720p.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/720p.m3u8
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
+山西卫视,http://live.cooltv.top/tv/tide.php?id=sxiws2
+广西卫视,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 
 通渭电视,http://play.kankanlive.com/live/1661761962676984.m3u8
 #http://play.kankanlive.com/live/1661761962676984.m3u8#
@@ -484,6 +489,9 @@ ________________________________________________________________________________
 
 少儿频道,#genre#
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/720p.m3u8
+山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.flv
+广东少儿,http://ci.emdoor.tech:8080/touchtv.php?pk=1200
+
 北京卡酷少儿,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225732/1/index.m3u8?fmt=ts2hls
 北京卡酷少儿,http://39.134.66.66/PLTV/88888888/224/3221225562/index.m3u8
 北京卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
