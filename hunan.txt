@@ -1,7 +1,27 @@
-$c_start胡楠电视$c_end 
-CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
-#http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=
 __________________________________________________________________________________________________________
+🎈稳定流畅,#genre#
+辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/1000/index.m3u8?&encrypt=
+辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?&encrypt=
+辽宁卫视,http://39.135.11.88/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225717/1/index.m3u8?fmt=ts2hls
+辽宁卫视,http://42.53.68.178:9901/tsfile/live/0121_1.m3u8
+CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
+CCTV1,https://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8?aliyun_uuid=b3b8e538-3470-4fa0-b6ed-2b138e5f5fef&auth_key=2145888000-0-0-fda7ddb73d3cb5ac5bddf4eeba9b665e
+CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
+CCTV6,http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
+
+CCTV13,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv13_2/index.m3u8
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/108p.m3u8
+浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/720p.m3u8 
+浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8 
+浙江钱江,http://hw-m-l.cztv.com/channels/lantian/channel002/720p.m3u8
+浙江经济,http://hw-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
+浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/720p.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/720p.m3u8
+
+通渭电视,http://play.kankanlive.com/live/1661761962676984.m3u8
+#http://play.kankanlive.com/live/1661761962676984.m3u8#
+
 🎈央视频道,#genre#
  CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
  CCTV1,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=
@@ -86,28 +106,7 @@ CCTV15,http://42.53.68.178:9901/tsfile/liv/0015_1.m3u8
  
  
  
-__________________________________________________________________________________________________________
-🎈稳定流畅,#genre#
-CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
-CCTV1,https://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8?aliyun_uuid=b3b8e538-3470-4fa0-b6ed-2b138e5f5fef&auth_key=2145888000-0-0-fda7ddb73d3cb5ac5bddf4eeba9b665e
-CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
-CCTV6,http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
-直播中国,http://mobilelive-ds.ysp.cctv.cn/ysp/2007463001_fhd.m3u8
-CCTV13,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv13_2/index.m3u8
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/108p.m3u8
-浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/720p.m3u8 
-浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8 
-浙江钱江,http://hw-m-l.cztv.com/channels/lantian/channel002/720p.m3u8
-浙江经济,http://hw-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
-浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/720p.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/720p.m3u8
-辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/1000/index.m3u8?&encrypt=
-辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?&encrypt=
-辽宁卫视,http://39.135.11.88/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225717/1/index.m3u8?fmt=ts2hls
-辽宁卫视,http://42.53.68.178:9901/tsfile/live/0121_1.m3u8
-通渭电视,http://play.kankanlive.com/live/1661761962676984.m3u8
-#http://play.kankanlive.com/live/1661761962676984.m3u8#
+
 
 ______________________________________
 🎈卫视频道,#genre#
