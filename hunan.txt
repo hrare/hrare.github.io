@@ -20,7 +20,7 @@ CCTV13,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv13_2/index.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/720p.m3u8
 河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
 山西卫视,http://live.cooltv.top/tv/tide.php?id=sxiws2
-广西卫视,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
+
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 
