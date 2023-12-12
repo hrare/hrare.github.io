@@ -22,10 +22,7 @@ CCTV13,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv13_2/index.m3u8
 
 通渭电视,http://play.kankanlive.com/live/1661761962676984.m3u8
 
-辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/1000/index.m3u8?&encrypt=
-辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?&encrypt=
-辽宁卫视,http://39.135.11.88/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225717/1/index.m3u8?fmt=ts2hls
-辽宁卫视,http://42.53.68.178:9901/tsfile/live/0121_1.m3u8
+
 🎈央视频道,#genre#
 
  CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
@@ -138,7 +135,10 @@ CCTV15,http://42.53.68.178:9901/tsfile/liv/0015_1.m3u8
 ______________________________________
 🎈卫视频道,#genre#
 
-
+辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/1000/index.m3u8?&encrypt=
+辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?&encrypt=
+辽宁卫视,http://39.135.11.88/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225717/1/index.m3u8?fmt=ts2hls
+辽宁卫视,http://42.53.68.178:9901/tsfile/live/0121_1.m3u8
 
  辽宁卫视,http://cfss.cc/api/ysp/lnws.m3u8
  北京卫视,http://cfss.cc/api/ysp/bjws.m3u8
