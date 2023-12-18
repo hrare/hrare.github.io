@@ -108,7 +108,7 @@ CCTV5+,http://hrare.gnway.cc:8000/tv/mg.php?id=cctv5p
 新疆卫视,http://hrare.gnway.cc:8000/tv/mg.php?id=xjws
 海南卫视,http://hrare.gnway.cc:8000/tv/mg.php?id=hinws
   
-🎈央视频道,#genre#
+
 
  CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
  CCTV1,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=
@@ -230,7 +230,7 @@ CCTV15,http://42.53.68.178:9901/tsfile/liv/0015_1.m3u8
  
 
 ______________________________________
-🎈卫视频道,#genre#
+
 
 辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/1000/index.m3u8?&encrypt=
 辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?&encrypt=
