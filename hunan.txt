@@ -17,6 +17,7 @@ CCTV15,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv15$央视频�
 CCTV16,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv16$央视频代理
 CCTV17,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv17$央视频代理
 CCTV5+,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv5p $央视频代理
+辽宁卫视,http://hrare100-1.beijing-02.dayunet.com/tv/liaoning/1.php
 辽宁卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=lnws$央视频代理
 北京卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=bjws$央视频代理
 东方卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=dfws$央视频代理
